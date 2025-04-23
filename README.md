@@ -29,3 +29,11 @@ If you are developing a production application, we recommend using TypeScript wi
 
 - searchBar
 - movie Suggestions
+
+#NETFLIX GPT
+
+- Vite
+- Configured TailwinfCSS
+- Header
+- Login form
+- Sign up form
